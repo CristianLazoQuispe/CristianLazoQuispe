@@ -39,15 +39,18 @@ src="https://img.shields.io/twitter/follow/CristianLazoQ?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CristianLazoQuispe"><img src="https://github-readme-stats.vercel.app/api?username=CristianLazoQuispe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CristianLazoQuispe's GitHub stats" /></a>
-
-<a href="http://www.github.com/CristianLazoQuispe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianLazoQuispe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table width="100%">
+  <tr>
+  <td width="50%">
+      <a href="http://www.github.com/CristianLazoQuispe"><img src="https://github-readme-stats.vercel.app/api?username=CristianLazoQuispe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CristianLazoQuispe's GitHub stats" /></a></td>
+  <td width="50%">
+      <a href="http://www.github.com/CristianLazoQuispe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianLazoQuispe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
+  </tr>
+</table>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/CristianLazoQuispe/Spoter-SL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=Spoter-SL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CristianLazoQuispe/Pico_y_placa" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=Pico_y_placa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/CristianLazoQuispe/skin-lesion-segmentation-using-pix2pix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=skin-lesion-segmentation-using-pix2pix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CristianLazoQuispe/project-covid-detection-utec" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=project-covid-detection-utec&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
