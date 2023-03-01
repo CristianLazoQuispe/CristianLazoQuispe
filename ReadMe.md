@@ -1,6 +1,3 @@
-PREVIEW
-MARKDOWN
-COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian Lazo Quispe
 ============================================================================================================================================
 
@@ -9,15 +6,17 @@ Machine Learning Engineer
 
 I working in Data Science and Machine Learning, I have developed projects related to computer vision, natural language processing, and data science for customer analysis.
 
-* 🌍  I'm based in Lima, Peru
-* 🖥️  See my portfolio at [Cristian-portfolio](http://cristianlazoquispe.github.io/my-portfolio-cris/)
-* ✉️  You can contact me at [mecatronico.lazo@gmail.com](mailto:mecatronico.lazo@gmail.com)
+* 🌍  I'm based in Lima, Peru
+* 🖥️  See my portfolio at [Cristian-portfolio](http://cristianlazoquispe.github.io/my-portfolio-cris/)
+* ✉️  You can contact me at [mecatronico.lazo@gmail.com](mailto:mecatronico.lazo@gmail.com)
 
 <a href="https://www.github.com/CristianLazoQuispe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CristianLazoQuispe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/CristianLazoQ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CristianLazoQ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -31,10 +30,10 @@ src="https://img.shields.io/twitter/follow/CristianLazoQ?logo=twitter&style=for-
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/CristianLazoQuispe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cristian-lazo-quispe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CristianLazoQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 
 ### Badges
 
@@ -51,7 +50,6 @@ src="https://img.shields.io/twitter/follow/CristianLazoQ?logo=twitter&style=for-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/CristianLazoQuispe/skin-lesion-segmentation-using-pix2pix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=skin-lesion-segmentation-using-pix2pix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CristianLazoQuispe/project-covid-detection-utec" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianLazoQuispe&repo=project-covid-detection-utec&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 
 ### Support Me
 
