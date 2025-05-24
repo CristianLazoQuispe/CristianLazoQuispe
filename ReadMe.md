@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 AI technical lead
--------------------------
+------------------------
 
 I working in Data Science and Machine Learning, I have developed projects related to computer vision, natural language processing, and data science for customer analysis.
 
