@@ -6,7 +6,6 @@ Research student at Kyoto University passionate about medical imaging, with stro
 
 * 🌍  Based in Kyoto, Japan (Originally from Lima, Peru)
 * 🎓  Research Student at Kyoto University - Intelligence Science and Technology
-* 🔬  Supervised by PhD. Roberto Espinoza Chamorro
 * 🧠  Research focus: Unsupervised Anomaly Detection in Brain MRI using VAEs and Diffusion Models
 * 🖥️  Portfolio: [cristianlazoquispe.github.io/my-portfolio-cris](https://cristianlazoquispe.github.io/my-portfolio-cris/)
 * ✉️  Contact: [clazoq@uni.pe](mailto:clazoq@uni.pe)
